@@ -17,3 +17,4 @@ def ortalamaPau(pauVize,pauFinal):
 # while döngüsü
 # while içerisinde okul seçimi için koşul döngüsü
 
+# hesaplanan sonuçların ayrı ayrı txt olarak yazdırılması kısmı 
